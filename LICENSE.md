@@ -12,7 +12,7 @@ By downloading, installing, copying, or using the Software, you agree to be boun
 
 The Software is provided free of charge during its preview, beta, and testing phase.
 
-Subject to compliance with this Agreement, you are granted a limited, non-exclusive, non-transferable, revocable licence to install and use the Software for personal, professional, educational, or internal business evaluation purposes only.
+Subject to compliance with this Agreement, you are granted a limited, non-exclusive, non-transferable, revocable licence to install and use the Software for personal and educational evaluation purposes only.
 
 ---
 
